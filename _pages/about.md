@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-ACiD WORKSHOP: Games and Graphs
+# ACiD WORKSHOP: Games and Graphs
 ======
 Date: Wednesday 1 May 2024
 
